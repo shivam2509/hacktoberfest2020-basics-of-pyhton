@@ -1,8 +1,8 @@
 # This program adds two numbers
 
-number1 = int(input("Enter your first number "))
+number1 = int(input("Enter the first number "))
 
-number2 = int(input("Enter your second number "))
+number2 = int(input("Enter the second number "))
 
 # Add two numbers
 sum = number1 + number2
