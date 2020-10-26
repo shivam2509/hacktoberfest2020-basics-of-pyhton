@@ -1,4 +1,4 @@
-print("To Calculate the Square root")
+print("To Calculate the Square root of a number")
 
 # To take the input from the user
 
