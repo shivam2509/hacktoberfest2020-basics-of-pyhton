@@ -1,6 +1,6 @@
 print('To find all the Prime numbers between any Two number')
 
-lower = int(input('Enter Prime number between '))
+lower = int(input('Enter the Prime number between '))
 upper = int(input('and '))
 
 print("Prime numbers between", lower, "and", upper, "are:")
@@ -13,3 +13,4 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
+           print("HELLO WORLD")
