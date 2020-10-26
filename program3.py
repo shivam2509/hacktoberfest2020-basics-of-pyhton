@@ -1,8 +1,8 @@
 print('To find the Area and Perimeter of the triangle')
 
-a1 = float(input('Enter first side: '))
-b = float(input('Enter second side: '))
-c = float(input('Enter third side: '))
+a1 = float(input('Enter the first side: '))
+b = float(input('Enter the second side: '))
+c = float(input('Enter the third side: '))
 
 
 # calculate the semi-perimeter
