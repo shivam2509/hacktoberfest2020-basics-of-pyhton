@@ -9,5 +9,5 @@ sum = number1 + number2
 
 # Display the sum
 
-print("The sum of", number1, 'and', number2, 'is')
+print("The sum of", number1, 'and', number2, 'is') // participating in hacktoberfest 2020
 print(sum)
